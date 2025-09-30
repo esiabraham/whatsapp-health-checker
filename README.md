@@ -85,4 +85,3 @@ After setting up and testing your code locally:
     git push -u origin main
     ```
 
-Your code will now be live on GitHub!
